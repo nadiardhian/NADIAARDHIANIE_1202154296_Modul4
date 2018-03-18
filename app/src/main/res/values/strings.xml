@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NADIAARDHIANIE_1202154296_Modul4</string>
+    <string-array name="namaMhs">
+    <item>Dwi</item>
+    <item>Putra</item>
+    <item>Dian</item>
+    <item>Indah</item>
+    <item>Tri</item>
+    <item>Agus</item>
+    <item>Ade</item>
+    <item>Fitri</item>
+    <item>Andi</item>
+    <item>Rio</item>
+    <item>Siti</item>
+    <item>Reza</item>
+    <item>Arya</item>
+    </string-array>
+</resources>
